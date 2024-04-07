@@ -1,0 +1,13 @@
+ul{
+    list-style-type: none;
+}
+a{
+    text-decoration:none;
+}
+body{
+    background-color: beige;
+}
+footer {
+    position: absolute;
+    bottom: 0;
+  }
